@@ -1,0 +1,4 @@
+D:\Projektai\Radio\AudioPlaybackAgent1\Bin\Debug\AudioPlaybackAgent1.dll
+D:\Projektai\Radio\AudioPlaybackAgent1\Bin\Debug\AudioPlaybackAgent1.pdb
+D:\Projektai\Radio\AudioPlaybackAgent1\obj\Debug\AudioPlaybackAgent1.dll
+D:\Projektai\Radio\AudioPlaybackAgent1\obj\Debug\AudioPlaybackAgent1.pdb
